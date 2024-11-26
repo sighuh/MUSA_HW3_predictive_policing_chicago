@@ -27,10 +27,12 @@ Cross-validated Poisson regression models (with and without spatial features) to
 Comparison of Kernel Density and risk prediction models for temporal generalizability.
 
 -Results
+
 Models including spatial features outperform those without but still show high prediction error.
 The model tends to overpredict in majority White neighborhoods and underpredict in majority Non-White neighborhoods, reflecting systemic biases in data and enforcement.
 
 -Findings
+
 Predictive policing models reinforce historical biases and inequities, especially in racially segregated urban areas like Chicago.
 These models create feedback loops where past data perpetuate discriminatory practices, further embedding inequities.
 
